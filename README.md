@@ -1,6 +1,9 @@
 # Journal App
 
+**THIS APPLICATION WAS DEVELOPED AS PART OF FERNANDO HERRERA´S REACT COURSE**
+
 Is an application that allows you to capture and share your experiences in a visually appealing way. Record your special moments, add photos, and share your stories easily and quickly.
+
 
 ## Features
 - Registration and Authentication:
